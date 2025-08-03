@@ -1,4 +1,4 @@
-# Real-time Autonomous Driving Computer Vision Demo
+# Real-time Autonomous Driving Computer Vision
 
 ## Overview
 
