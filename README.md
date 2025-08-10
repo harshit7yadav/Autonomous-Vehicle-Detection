@@ -8,6 +8,9 @@ This is a production-ready Streamlit web application that demonstrates computer 
 
 Preferred communication style: Simple, everyday language.
 
+## Demo video 
+The demo video of the project could be seen in autonomous-vehicle detection demo file which has a .mp4 file on download.
+
 ## System Architecture
 
 ### Frontend Architecture
